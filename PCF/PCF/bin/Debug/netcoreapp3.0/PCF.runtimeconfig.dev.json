@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kesll\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kesll\\.nuget\\packages"
+    ]
+  }
+}

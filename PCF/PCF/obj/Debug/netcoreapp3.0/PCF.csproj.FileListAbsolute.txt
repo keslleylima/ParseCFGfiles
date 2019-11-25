@@ -1,0 +1,11 @@
+D:\GitHub\ParseCFGfiles\PCF\PCF\bin\Debug\netcoreapp3.0\PCF.exe
+D:\GitHub\ParseCFGfiles\PCF\PCF\bin\Debug\netcoreapp3.0\PCF.deps.json
+D:\GitHub\ParseCFGfiles\PCF\PCF\bin\Debug\netcoreapp3.0\PCF.runtimeconfig.json
+D:\GitHub\ParseCFGfiles\PCF\PCF\bin\Debug\netcoreapp3.0\PCF.runtimeconfig.dev.json
+D:\GitHub\ParseCFGfiles\PCF\PCF\bin\Debug\netcoreapp3.0\PCF.dll
+D:\GitHub\ParseCFGfiles\PCF\PCF\bin\Debug\netcoreapp3.0\PCF.pdb
+D:\GitHub\ParseCFGfiles\PCF\PCF\obj\Debug\netcoreapp3.0\PCF.csprojAssemblyReference.cache
+D:\GitHub\ParseCFGfiles\PCF\PCF\obj\Debug\netcoreapp3.0\PCF.AssemblyInfoInputs.cache
+D:\GitHub\ParseCFGfiles\PCF\PCF\obj\Debug\netcoreapp3.0\PCF.AssemblyInfo.cs
+D:\GitHub\ParseCFGfiles\PCF\PCF\obj\Debug\netcoreapp3.0\PCF.dll
+D:\GitHub\ParseCFGfiles\PCF\PCF\obj\Debug\netcoreapp3.0\PCF.pdb
